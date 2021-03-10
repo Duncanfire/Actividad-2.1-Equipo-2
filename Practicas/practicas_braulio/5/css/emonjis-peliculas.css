@@ -1,0 +1,39 @@
+body {
+  /*background-color: hsl(35, 100%, 90%);*/
+  background: url(../IMG/Fondo.jpg);
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+  color: hsl(170, 92%, 46%);
+  text-transform: uppercase;
+  text-align: center;
+}
+
+h3{
+  color: white;
+  font-size: 2rem;
+}
+
+p {
+  font-size: 2rem;
+  text-align: center;
+  color:rgb(255, 191, 107);
+}
+
+p.intro {
+  color: hsl(64, 100%, 76%);
+}
+
+summary {
+  font-size: 4rem;
+  text-align: center;
+}
+
+span.par {
+  background:linear-gradient(to right, rgb(241, 255, 117),rgba(95, 243, 174, 0.815))
+}
+
+span.impar {
+  background:linear-gradient(to right, rgb(170, 117, 255),rgb(0, 60, 255))
+}

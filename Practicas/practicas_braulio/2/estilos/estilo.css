@@ -1,0 +1,54 @@
+body {
+    /*background-color: #a2c6b6;*/
+    background-image: url(https://papers.co/wallpaper/papers.co-vt30-abstract-polygon-bw-pattern-gray-31-wallpaper.jpg);
+    font-family: Verdana;
+    text-align: justify;
+    color:white;
+}
+
+h1 {
+    font-family: 'Lucida Sans';
+    font-size: 3rem;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Courier New';
+    font-size: 3rem;
+    font-variant: small-caps;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-color: #cacaca;
+}
+
+p {
+    line-height: 200%;
+    text-indent: 3em;
+}
+
+strong {
+    color: chocolate;
+}
+
+em {
+    background-color: white;
+    color: green;
+}
+
+span {
+    color: red;
+    font-family: "Comic Sans", cursive;
+}
+
+time {
+    color: darkorange;
+}
+
+address {
+    font-size: 0.8rem;
+    text-align: center;
+}
+
+blockquote {
+    font-style: oblique;
+}

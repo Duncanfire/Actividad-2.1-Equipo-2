@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+body {
+font-family:'Indie Flower', cursive;
+background-image: url(../i1.jpg);
+background-size: cover;
+color: rgb(84, 204, 251);
+font-size: 2em;
+text-shadow:black 0.1em 0.1em 0.2em;
+}
+
+
+h1 {
+    font-size: 3rem;
+    padding-bottom: 100px;
+    padding-top: 50px;
+    text-align:  center;
+}
+
+table {
+    float: center;
+    width: 45%;
+    border: none;
+
+}
+
+th {
+width: 30%;
+text-align: center;
+border: 5px dotted rgb(0, 217, 255);
+padding: 5px;
+font-weight: bold;
+}
+
+
+td {
+    width: 30%;
+    text-align: center;
+    border: 5px dotted rgb(0, 255, 98);
+    padding: 2px;
+    font-weight: bold;
+}
+td a {
+    color: rgb(10, 226, 255);
+    text-decoration: none;
+
+}
+
+th a {
+
+    color: rgb(247, 0, 255);
+    text-decoration: none;
+
+}
+
+th.invisible {
+border: transparent;
+height: 50px;
+
+}
+
+td.invisible {
+border: none;
+width: 4%;
+height: 0px;
+}
+
+#yo {
+    float: left;
+    width: 245px;
+    height: 300px;
+    position:absolute;
+    left: 10%;
+    border:5px solid rgba(3, 3, 3, 0.692);
+
+   }
+
+table.regresar{
+padding-top: 10%;
+width: 20%;    
+}

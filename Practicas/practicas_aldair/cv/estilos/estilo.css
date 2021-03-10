@@ -1,0 +1,123 @@
+body {
+    background-color: hsl(199, 88%, 25%);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+    font-style: italic;
+    text-transform: uppercase;
+    
+}
+
+h2 {
+    background-color: hsl(198, 50%, 50%);
+    font-size: 2rem;
+    color: rgb(45, 255, 4);
+}
+
+h3 {
+    background-color: hsl(198, 50%, 65%);
+    color: white;
+    font-size: 1.5rem;
+}
+
+h4 {
+    color: white;
+    font-size: 2rem;
+    text-align: center;
+}
+
+p {
+    background-color: rgb(112, 55, 228);
+    color:lavender;
+    text-align: justify;
+  
+ 
+}
+
+blockquote {
+    background-color: hsl(198, 50%, 65%);
+    color: white;
+    font-style: oblique;
+}
+
+#uno{
+    background-color: hsl(39, 83%, 46%);
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+pre {
+    background-color: white;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+address {
+    font-family: serif;
+    font-style: normal;
+    text-align: right;
+}
+
+nombre {
+    background-color: hsl(198, 50%, 65%);
+    color: rgb(191, 21, 197);
+    font-style: oblique;
+
+}
+
+telefono {
+font-weight: bold;
+color:rgb(253, 7, 253);
+font-family: serif;
+
+
+}
+
+institucion{
+    color: rgb(1, 178, 248);
+}
+
+idioma {
+    background-color: hsl(39, 83%, 46%);
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+th, td {
+    background-color: rgb(8, 190, 223);
+
+}
+
+#regresar{
+    color: cornsilk;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    }
+    
+    #regresar:hover{
+    background-color:crimson;
+    
+    }
+    
+    footer {
+    padding-top: 200px;
+    
+    }
+
+    a{
+        font-size: 1.5rem;
+        color:rgb(220, 167, 245);
+        font-family:Arial, Helvetica, sans-serif;
+        text-decoration: none;
+    }
+
+    iframe {
+        padding-top: 100px;
+
+    }

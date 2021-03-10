@@ -1,0 +1,29 @@
+body {
+  background-color: hsl(204, 70%, 91%);
+  font-family: sans-serif;
+}
+
+h1 {
+  color: hsl(204, 64%, 23%);
+  text-transform: uppercase;
+}
+
+p {
+  font-size: 2rem;
+}
+
+p.intro {
+  color: hsl(283, 39%, 53%);
+}
+
+summary {
+  font-size: 4rem;
+}
+
+span.par {
+  background-color: white;
+}
+
+span.impar {
+  background-color: hsl(168, 42%, 61%);
+}
